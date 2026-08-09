@@ -14,7 +14,7 @@ if len(compte)<8:                                       # len(liste)
   print(compte)                                   
 else:
     print("la liste est pleine intervention depuit GH")
-    print (" depuit le local grace a l intervention (I) suppression  d une ligne ")
+    print (" depuit le local grace a l intervention (I) suppression  d une ligne .")
     
         
 
