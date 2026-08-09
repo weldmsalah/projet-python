@@ -15,7 +15,7 @@ if len(compte)<8:                                       # len(liste)
 else:
     print("la liste est pleine intervention depuit GH")
  
-    print ("intervention depuit le local ,pas satisfait")
+    print ("intervention depuit le local ,pas satisfait en fin")
 
 
         
