@@ -15,21 +15,4 @@ if len(compte)<8:                                       # len(liste)
    
 else:
     print("la liste est pleine")
-        
-
-
-
-
-
-
-
-
-
-# list.remove(55)#supprimer 55 de la list
-# print(list)
-
-# list.append(100)#ajouter 100 à la list
-# print(list)
-
-# list.insert(0, 53)#ajouter 50 à la position 
-# print(list)
+    
