@@ -17,7 +17,8 @@ else:
     
 
     print("la liste est pleine intervention depuit GH")
-    print ("intervention depuit le local")
+    print ("intervention depuit le local ,pas satisfait")
+
         
 
 
