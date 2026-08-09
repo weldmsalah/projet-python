@@ -14,7 +14,7 @@ if len(compte)<8:                                       # len(liste)
   print(compte)                                
    
 else:
-    print("la liste est pleine")
+    print("la liste est pleine intervention depuit GH")
         
 
 
