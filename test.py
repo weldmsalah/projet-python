@@ -36,4 +36,3 @@ else:
 
 # list.insert(0, 53)#ajouter 50 à la position 
 # print(list)
->>>>>>> d388cafb27bbcce66a0203a1d06cde17bd38c1f9
