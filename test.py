@@ -11,13 +11,12 @@ if len(compte)<8:                                       # len(liste)
   compte.reverse()                                        #liste.sort() metre en ordre croissant 
   print(compte) 
   compte.remove(int(plus)) 
-  print(compte)                                
-   
+  print(compte)                                   
 else:
-    
-
     print("la liste est pleine intervention depuit GH")
+ 
     print ("intervention depuit le local ,pas satisfait")
+
 
         
 
