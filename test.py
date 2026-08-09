@@ -12,7 +12,7 @@ if len(compte)<8:                                       # len(liste)
   print(compte) 
   compte.remove(int(plus)) 
   print(compte)                                
-
+   
 else:
     print("la liste est pleine")
         
