@@ -6,15 +6,5 @@ list=[["mohamed",25,"ingenieur"],
 
 
 print(list[2][0])
-input(",,,")
 
 
-
-
-
-
-"""def sigma():
-    a=input("quelle est votre nom ")
-    b=input("votre age ")
-    print(f'bonjour {a}, votre age est {b} ans')
-sigma() """    
