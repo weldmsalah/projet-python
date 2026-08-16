@@ -6,5 +6,3 @@ list=[["mohamed",25,"ingenieur"],
 
 
 print(list[2][0])
-
-
